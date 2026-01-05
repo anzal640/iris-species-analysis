@@ -1,4 +1,4 @@
-## My Heart Disease Analysis Project
+## Heart Disease Analysis Project
 
 I've been working on this dataset to see what actually correlates with heart disease. It's a small but interesting dataset with 303 patients.
 
